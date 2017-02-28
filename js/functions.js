@@ -92,6 +92,7 @@ function startHeartAnimation() {
 	};
 })(jQuery);
 
+/*刷新时间*/
 function timeElapse(date){
 	var current = Date();
 	var seconds = (Date.parse(current) - Date.parse(date)) / 1000;
