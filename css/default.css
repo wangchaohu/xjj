@@ -16,3 +16,20 @@
 #copyright{margin-top:10px;text-align:center;width:100%;color:#666}
 #errorMsg{width:100%;text-align:center;font-size:24px;position:absolute;top:100px;left:0}
 #copyright a{color:#666}
+.zhaopin {
+	list-style: none;
+}
+.zhaopin_li{
+	float: left;
+	list-style: none;
+	margin: 1%;
+	width: 5%;
+	height: 2%;
+}
+.youqing{
+	list-style: none;
+}
+.youqing_li{
+	float: left;
+	list-style: none;
+}
